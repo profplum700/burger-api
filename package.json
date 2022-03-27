@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/profplum700/burger-api#readme",
   "dependencies": {
+    "heroku": "^7.60.0",
     "json-server": "^0.17.0"
   }
 }
