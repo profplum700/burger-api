@@ -1,0 +1,39 @@
+{
+    "burgers": [
+        {
+            "id": 0,
+            "name": "Tribute Burger",
+            "restaurant": "Honest Burgers",
+            "web": "http://www.honestburgers.com/",
+            "description": "A mouth-watering honest beef burger",
+            "ingredients": ["beef", "american cheese", "burger sauce", "french mustard"],
+            "addresses": [
+                {
+                    "adddressId": "0",
+                    "number": "75",
+                    "street": "123 Main St",
+                    "postcode": "TR1 22B",
+                    "country": "United Kingdom"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Fatty Burger",
+            "restaurant": "Honest Burgers",
+            "web": "http://www.honestburgers.com/",
+            "description": "A greasy mutha",
+            "ingredients": ["all the meats", "philly cheese", "mushrooms", "ketchup"],
+            "addresses": [
+                {
+                    "adddressId": "0",
+                    "number": "75",
+                    "street": "123 Main St",
+                    "postcode": "TR1 22B",
+                    "country": "United Kingdom"
+                }
+            ]
+                    
+        }
+    ]
+}
